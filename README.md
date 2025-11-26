@@ -2,7 +2,7 @@
 
 ### Configuración de Email (Importante para Render)
 
-Render me bloqueaba las peticiones para validar el email, por eso implementamos el modo de prueba.
+Tuve muchas complicaciones con render, bloqueaba todas mis peticiones salientes para verificar el mail, asi que decidi directamente usar vercel para evitarme los problemas
 
 #### COMO CONFIGURAR EL MODO DE PRUEBA
 EN RENDER PONER
@@ -130,5 +130,5 @@ EN RENDER PONER
 ## Despliegue
 
 La API se encuentra desplegada en:
-**https://tpfinal-back-1.onrender.com**
+**tpfinal-back.vercel.app**
 
